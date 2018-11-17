@@ -16,7 +16,10 @@ I always look forward to learn something new. In the future I dream to do `PhD i
 	* _Yann LeCun_
 	* _Yoshua Bengio_
 	* _Andrej Karpathy_
+	* _Ian Goodfellow_
+	* _Alex Krizhevsky_
 	* _and Geoffrey E. Hinton_
+	
 
 > ### "If you solve other people's problems you will never be poor."
 
