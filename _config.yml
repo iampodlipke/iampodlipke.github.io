@@ -128,7 +128,7 @@ gtm: GTM-N9XWTTF
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+fb_comment_id: facebook-jssdk
 
 # --- Misc --- #
 
