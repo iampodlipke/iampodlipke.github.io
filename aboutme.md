@@ -5,7 +5,7 @@ subtitle: Researcher
 published: true
 ---
 
-> ### My name is **Dominik Podlipniak**, I'm 18 years old and I'm aspiring **Deep Learning Researcher**.
+> ## My name is __Dominik Podlipniak__, I'm 18 years old and I'm aspiring __Deep Learning Researcher__.
 
 I live in **Szczecin, Poland**.   
 
@@ -20,4 +20,4 @@ I dream to do _PhD in Artificial Intelligence abroad, preferably UK, at Universi
 person** and I would love to find some people as passionate about field as me so we can talk
 about new ideas and learn together !
 
-> ## "If you solve other people's problems you will never be poor."
+> ### "If you solve other people's problems you will never be poor."
