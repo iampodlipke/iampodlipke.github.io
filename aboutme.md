@@ -9,7 +9,7 @@ published: true
 
 I live in **Szczecin, Poland**.   
 
-*My biggest inspirations are : 
+* My biggest inspirations are : 
 	* Yann LeCun
 	* Yoshua Bengio
 	* Andrej Karpathy
