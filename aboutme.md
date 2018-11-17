@@ -13,4 +13,4 @@ I dream to do _PhD in Artificial Intelligence abroad, preferably UK, at Universi
 person** and I would love to find some people as passionate about field as me so we can talk
 about new ideas and learn together !
 
-> "If you solve other people's problem you will never be poor."
+> ##"If you solve other people's problems you will never be poor."
