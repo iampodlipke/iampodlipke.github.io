@@ -7,9 +7,9 @@ date: '2018-11-15'
 ---
 
 ## Welcome to my scientific blog
-My name is **Dominik Podlipniak**. This is test post.
+
+- My name is **Dominik Podlipniak**. This is test post.
 
 
 
-![fullsizeoutput_339.jpeg]({{site.baseurl}}/img/fullsizeoutput_339.jpeg)
 
