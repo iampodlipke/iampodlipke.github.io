@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test markdown
-subtitle: Each post also has a subtitle
+subtitle: Markdown Tutorial for myself
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
