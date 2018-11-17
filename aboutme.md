@@ -5,7 +5,8 @@ subtitle: Researcher
 published: true
 ---
 
-### My name is `Dominik Podlipniak`, I'm 18 years old and I'm aspiring to become `Deep Learning Researcher`.
+### My name is `Dominik Podlipniak`   
+### I'm 18 years old and I'm aspiring to become `Deep Learning Researcher`.   
 ### I live in Szczecin, Poland.   
 
  
@@ -16,8 +17,8 @@ published: true
 	* Andrej Karpathy
 	* and Geoffrey E. Hinton
 
-I always look forward to learn something new ! In the future
-I dream to do _PhD in Artificial Intelligence abroad, preferably UK, at University of Edinburgh.
+I always look forward to learn something new !   
+In the future I dream to do _PhD in Artificial Intelligence abroad, preferably UK, at University of Edinburgh.
 I'm very **kind** and **open minded**
 person and I would love to find some people as passionate about field as me so we can talk
 about new ideas and learn together !
