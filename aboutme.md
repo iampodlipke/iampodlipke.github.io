@@ -10,15 +10,15 @@ published: true
 ### I live in Szczecin, Poland.   
 
  
-* My biggest inspirations are :
+* **My biggest inspirations are** :
  
-	* Yann LeCun
-	* Yoshua Bengio
-	* Andrej Karpathy
-	* and Geoffrey E. Hinton
+	* _Yann LeCun_
+	* _Yoshua Bengio_
+	* _Andrej Karpathy_
+	* _and Geoffrey E. Hinton_
 
-I always look forward to learn something new !   
-In the future I dream to do _PhD in Artificial Intelligence abroad, preferably UK, at University of Edinburgh.
+I always look forward to learn something new.     
+In the future I dream to do PhD in `Artificial Intelligence` abroad, preferably UK, at University of Edinburgh.
 I'm very **kind** and **open minded**
 person and I would love to find some people as passionate about field as me so we can talk
 about new ideas and learn together !
