@@ -5,7 +5,7 @@ subtitle: Researcher
 published: true
 ---
 
-### My name is Dominik Podlipniak, I'm 18 years old and I'm aspiring to become _Deep Learning Researcher_.
+### My name is `Dominik Podlipniak`, I'm 18 years old and I'm aspiring to become `Deep Learning Researcher`.
 ### I live in Szczecin, Poland.   
 
  
